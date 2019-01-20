@@ -1,6 +1,6 @@
 # Web scraping of an image
 
-Web scraping of the logo of this Wikipedia page: https://en.wikipedia.org/wiki/Cicada_3301
+Web scraping of the logo in this Wikipedia page: https://en.wikipedia.org/wiki/Cicada_3301
 
 ## Here follows some code explanation:
 
